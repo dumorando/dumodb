@@ -1,12 +1,20 @@
 {
   "name": "dumodb",
-  "version": "1.0.0",
+  "version": "1.0.0-1",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "json",
+    "database",
+    "node"
+  ],
+  "author": "dumorando",
   "license": "ISC",
-  "description": ""
+  "description": "My attempt at making a scalable database",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dumorando/dumodb"
+  }
 }
